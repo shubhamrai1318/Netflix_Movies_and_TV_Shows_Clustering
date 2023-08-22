@@ -1,4 +1,4 @@
-<h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
+<h1 align="center" style=color"red"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
@@ -21,11 +21,6 @@
 <ul>
   <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
 </ul>
-<h4>Data Source:</h4>
-<li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/27395237-netflix-movies-and-tv-shows-clustering.</li>
-<ul>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :book:Introduction</h2>
 Netflix, the world’s largest on-demand internet streaming media and online DVD movie rental service provider.it Founded August 29, 1997, in Los Gatos, California by Marc and Reed. It has 69 million members in over 60 countries enjoying more than 100 million hours of TV shows and movies per day
